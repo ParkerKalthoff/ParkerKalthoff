@@ -4,6 +4,7 @@
     <i>
         I'm Parker!<br>
         Computer Science Student at NDSU.<br>
+        <img src="https://komarev.com/ghpvc/?username=ParkerKalthoff&style=flat-square&color=blue" alt=""/>
     </i><br>
     <a href="https://www.linkedin.com/in/parker-kalthoff-232237251/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
